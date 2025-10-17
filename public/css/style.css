@@ -8,7 +8,7 @@
 	--BgFooter: #2b0047;
 	--BgContainer: #faf5ff;
 	--TextPrimary: #0c0c0c;
-	--TextSecondary: #4d4d4d;
+	--TextSecondary: #444444;
 	--TextTertiary: #999999;
 	--TextNav: #ffffff;
 	--TextFooter: #ffffff;
@@ -895,9 +895,9 @@ a {
 }
 
 .headWrap {
-	height: 85px;
+	height: 80px;
 	background: var(--BgNav);
-	border-bottom: 1px solid var(--Divider);
+	border-bottom: 0px solid var(--Divider);
 	z-index: 1;
 }
 
